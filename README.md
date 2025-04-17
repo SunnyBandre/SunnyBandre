@@ -20,6 +20,10 @@
 
 ### 🧰 Tech Stack
 
+## 🏅 Google Cloud Badge
+
+[![Google Cloud Badge](https://images.credly.com/size/120x120/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/58dae89e-3819-4392-be6e-9a7ca9cb43d6/public_url)
+
 #### 🖥️ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,tailwind,bootstrap,babel,threejs" />
