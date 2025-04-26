@@ -22,7 +22,9 @@
 
 ## 🏅 Google Cloud Badge
 
-[![Google Cloud Badge](https://images.credly.com/size/120x120/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/58dae89e-3819-4392-be6e-9a7ca9cb43d6/public_url)
+[![Google Cloud Badge](https://images.credly.com/size/145x145/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/58dae89e-3819-4392-be6e-9a7ca9cb43d6/public_url)
+[![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://raw.githubusercontent.com/SunnyBandre/SunnyBandre/main/gemini-ai-badge.png)](https://www.credly.com/badges/0850d3f3-2ca8-492c-8385-256f97c5b026/public_url)
+
 
 #### 🖥️ Frontend
 <p>
