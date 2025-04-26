@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Bandre!;Full+Stack+Developer+%7C+React+%7C+C%23+%7C+API+Enthusiast;Passionate+Problem+Solver+%7C+Team+Player+%F0%9F%92%AA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Sunny+Bandre!;Full+Stack+Developer+%7C+React+%7C+C%23+%7C+API+Enthusiast;Passionate+Problem+Solver+%7C+Team+Player+%F0%9F%92%AA" alt="Typing animation" />
 </p>
 
 ---
