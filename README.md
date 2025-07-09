@@ -28,7 +28,7 @@
 
 #### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,tailwind,bootstrap,babel,threejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,tailwind,bootstrap,babel,threejs,nextjs" />
 </p>
 
 #### 🛠️ Backend & Frameworks
